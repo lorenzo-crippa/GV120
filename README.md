@@ -1,5 +1,6 @@
 # GV120
-## Politics and Economic Policies (GV120) - Department of Government, University of Essex
+## Department of Government, University of Essex
+## Politics and Economic Policies
 
 **Materials for the 2019/20 academic year**
 
